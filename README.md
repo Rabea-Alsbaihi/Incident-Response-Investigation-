@@ -1,3 +1,5 @@
 # Incident-Response-Investigation-
-This repository contains incident response and digital investigation case studies, analysis steps, tools used, and documented methodologies. The goal is to provide clear processes for identifying, analyzing, and remediating security incidents in real-world environments.
+[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Incident%20Response-blue?style=flat-square)]()
+[![Domain](https://img.shields.io/badge/SOC-Cyber%20Security-orange?style=flat-square)]()
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Arabic-lightgrey?style=flat-square)]()
